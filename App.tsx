@@ -18,6 +18,7 @@ const styles = StyleSheet.create({
     marginTop: 100,
   },
   text: {
-    fontSize: 20,
+    fontSize: 24,
+    fontWeight: 'bold',
   },
 });
